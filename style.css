@@ -1,0 +1,89 @@
+
+.itemA{
+    position: absolute;
+    margin-top: -500px;
+}
+
+
+/* .itemB{
+    height: 400px;
+    width: 550px;
+    position: absolute;
+    margin-left: -500px;
+} */
+
+.flex {
+    display: flex;
+}
+
+.itemB{
+    margin-left: 1vw;
+}
+
+.itemC {
+    /* padding-left: 5vw; */
+    /* margin-top: -40vh; */
+    /* margin-left: -23vw !important; */
+    /* outline: 2px solid red; */
+    width: 50vw;
+    height: 43vh;
+    margin-top: 30vh;
+}
+.imgbg{
+    background-image: url(/IMG/pexels-vikkirillova-11621973.jpg);
+    width: 40%;
+    background-size: contain;
+    background-repeat: no-repeat    ;
+    /* height: 200vh; */
+}
+.imbgc{
+    background-image: url(/IMG/pexels-tomaz-barcellos-999425-1987301.jpg);
+    width: 40%;
+    background-size: contain;
+    background-repeat: no-repeat ;
+    /* height: 200vh;  */
+}
+.imgbd{
+    background-image: url(/IMG/pexels-pavel-danilyuk-8422316.jpg);
+    width: 40%;
+    background-size: contain;
+    background-repeat: no-repeat ;
+    /* height: 200vh; */
+}
+.imgbE{background-image: url(/IMG/pexels-enginakyurt-3065207.jpg);
+    width: 40%;
+    background-size: contain;
+    background-repeat: no-repeat ;
+    /* height: 200vh; */
+}
+
+.sect{
+    height: 300vh;
+}
+
+.itemD{
+    margin-top: 50vh;
+    margin-left: -22.2vw;
+    height: 46.5vh;
+    /* outline: 2px solid red; */
+    position: absolute;
+    margin-top: 372px;
+    margin-left: 391px;
+}
+
+.Ta{
+    padding: 350px 10px 10px 10px;
+}
+
+#sectionForMedia{
+    margin-top: -5vh;
+    padding-left: 0.12vw;
+    height: 97vh;
+}
+
+video{
+    height: 96.7vh;
+}
+
+
+
